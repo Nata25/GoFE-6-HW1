@@ -1,4 +1,52 @@
 body {
-  background-color: #f5f2f0;
+  background-color: #EAEAEA;
+  color: #1f1f1f;
   font-family: Arial, sans-serif;
+  font-size: .9em;
+}
+
+main {
+  margin: 50px auto;
+  width: 60%;
+}
+
+h1 {
+  font-size: 2.4em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: 'Russo One', 'Fira Sans', sans-serif;
+  font-size: 1.1em;
+  margin-top: 25px; 
+}
+
+a {
+  font-style: italic;
+}
+
+.sectionItem {
+  border-top: 1px solid #BDBDBD;
+  font-family: 'PT Sans Caption', sans-serif;
+}
+
+.contacts {
+  border-top: 1px solid #D4D4D4;
+}
+
+figure {
+  margin: 0 auto 20px 0;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+}
+
+img {
+  border: 1px solid #ABABAB;
+  display: block;
+  margin: 20px auto;
+}
+
+ul li {
+  margin: 5px;
 }
