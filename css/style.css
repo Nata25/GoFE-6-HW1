@@ -17,9 +17,9 @@ h1 {
 }
 
 h2 {
+  margin-top: 25px;
   font-family: 'Russo One', 'Fira Sans', sans-serif;
   font-size: 1.1em;
-  margin-top: 25px; 
 }
 
 a {
@@ -42,9 +42,9 @@ figure {
 }
 
 img {
-  border: 1px solid #ABABAB;
   display: block;
   margin: 20px auto;
+  border: 1px solid #ABABAB;
 }
 
 ul li {
